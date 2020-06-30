@@ -1,11 +1,16 @@
-title: looping-sprites-1
+title: Looping sprites
 hero_image: images/banner.png
-description: looping-sprites-1 description
-version: 4
+description: looping-sprites description
+version: 1
 listed: false
 copyedit: false
 last_tested: "2020-06-30"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Checklist
+  - title: What will you make?
+  - title: Develop your project
+  - title: How to...
+  - title: Share your project
+  - title: Reflect on your project
   - title: What next?

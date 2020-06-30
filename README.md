@@ -1,11 +1,11 @@
-# looping-sprites-1
+# looping-sprites
 
-![looping-sprites-1](banner.png)
+![looping-sprites](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/looping-sprites-1](https://projects.raspberrypi.org/en/projects/looping-sprites-1)
+Find the project online at [projects.raspberrypi.org/en/projects/looping-sprites](https://projects.raspberrypi.org/en/projects/looping-sprites)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/looping-sprites-1/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/looping-sprites-1/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/looping-sprites/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/looping-sprites/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
